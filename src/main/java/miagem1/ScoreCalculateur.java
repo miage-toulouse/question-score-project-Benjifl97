@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * Created by franck on 28/11/2016.
  */
-public class ScoreCalculateur {
+    public class ScoreCalculateur {
 
     /**
      * Calcule le score obtenu par un étudiant en répondant à une question à choix
