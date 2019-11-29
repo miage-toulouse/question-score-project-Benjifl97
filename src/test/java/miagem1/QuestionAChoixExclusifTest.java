@@ -6,7 +6,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class QuestionAChoixExclusifTest {
-
+// fix
     private QuestionAChoixExclusif uneQuestion;
     @Before
     public void setUp() throws Exception {
